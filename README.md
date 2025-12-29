@@ -4,6 +4,8 @@
 ## Data
 The data used in this project are not publicly available due to privacy or size constraints.
 Instructions for data access or data format description can be provided upon request.
+Exploratory Jupyter notebooks are maintained in a separate branch (`notebooks`)
+to keep the main branch clean and reproducible.
 
 ## Methods
 - Feature extraction
