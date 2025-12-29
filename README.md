@@ -11,9 +11,9 @@ Instructions for data access or data format description can be provided upon req
 - Training procedure
 - Evaluation metrics
 
-## Files
-- notebooks/: Jupyter notebooks
-- src/: Python scripts
+## Models
+Trained model files (.joblib) are not included due to size constraints.
+Models can be reproduced by running the training scripts.
 
 ## Environment
 - Python 3.9
